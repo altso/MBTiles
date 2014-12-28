@@ -1,6 +1,6 @@
 install:
   - ps: (new-object net.webclient).DownloadFile('http://www.sqlite.org/2014/sqlite-wp81-winrt-3080702.vsix', 'sqlite-wp81-winrt-3080702.vsix')
-  - ps: & "c:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe" /q /a /i "sqlite-wp81-winrt-3080702.vsix"
+  #- ps: & "c:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe" /q /a /i "sqlite-wp81-winrt-3080702.vsix"
 
 platform:
   - x86
