@@ -1,6 +1,8 @@
 MBTiles for Windows Phone 8.1
 =============================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/32my9lyqcc2hrpy7/branch/master?svg=true)](https://ci.appveyor.com/project/altso/mbtiles/branch/master)
+
 Build your offline maps for Windows Phone 8.1 with MBTiles.
 
 Usage
