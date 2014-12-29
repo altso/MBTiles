@@ -1,5 +1,3 @@
-platform:
-  - x86
-  - ARM
+platform: AnyCPU
 
 configuration: Release
