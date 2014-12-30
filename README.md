@@ -12,7 +12,12 @@ Usage
     var file = await StorageFile.GetFileFromApplicationUriAsync(uri);
     MapControl.TileSources.Add(MBTileSource.Create(file.Path));
 
-See [GegraphyClass](https://github.com/altso/MBTiles/tree/master/GeographyClass) sample project for more details.
+See [GeographyClass](https://github.com/altso/MBTiles/tree/master/GeographyClass) sample project for more details.
+
+Dependencies
+------------
+
+MBTiles are SQLite databases. Therefore, SQLitePCL package must be installed in a target project.
 
 Documentation
 -------------
