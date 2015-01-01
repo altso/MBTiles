@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>MBTiles for Windows Phone 8.1</title>
+    <authors>Alexander Tsoi</authors>
+    <owners>Alexander Tsoi</owners>
+    <projectUrl>https://github.com/altso/MBTiles</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MBTiles support for Windows Phone 8.1</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015 Alexander Tsoi</copyright>
+    <tags>mbtiles offline maps mapbox</tags>
+  </metadata>
+</package>

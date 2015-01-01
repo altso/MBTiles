@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MBTiles")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("MBTiles support for Windows Phone 8.1")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Alexander Tsoi")]
 [assembly: AssemblyProduct("MBTiles")]
 [assembly: AssemblyCopyright("Copyright © Alexander Tsoi 2014")]
 [assembly: AssemblyTrademark("")]
@@ -25,4 +25,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("git")]
 [assembly: ComVisible(false)]
