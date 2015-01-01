@@ -3,7 +3,6 @@ assembly_info:
   file: AssemblyInfo.cs
   assembly_version: "{version}"
   assembly_file_version: "{version}"
-  assembly_informational_version: "{commitId}"
 
 build:
   publish_nuget: true             # package projects with .nuspec files and push to artifacts
