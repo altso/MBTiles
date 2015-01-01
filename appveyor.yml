@@ -5,6 +5,10 @@ assembly_info:
   assembly_file_version: "{version}"
   assembly_informational_version: "{commitId}"
 
+build:
+  publish_nuget: true             # package projects with .nuspec files and push to artifacts
+  publish_nuget_symbols: true     # generate and publish NuGet symbol packages
+
 platform: Any CPU
 
 configuration: Release
