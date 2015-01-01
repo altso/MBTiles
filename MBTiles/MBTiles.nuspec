@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>$version$</version>
+    <version>1.0.0.0-alpha</version>
     <title>MBTiles for Windows Phone 8.1</title>
     <authors>Alexander Tsoi</authors>
     <owners>Alexander Tsoi</owners>
